@@ -5,6 +5,7 @@ metadata:
   namespace: security-playground
   labels:
     app: app
+    app2: app2
 spec:
   replicas: 1
   selector:
